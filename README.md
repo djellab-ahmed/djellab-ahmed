@@ -1,4 +1,5 @@
-<img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/ActiveCourteousAmericanindianhorse-max-1mb.gif">
+
+[![MasterHead](https://thumbs.gfycat.com/ActiveCourteousAmericanindianhorse-max-1mb.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Ahmed Abdeldjallil DJELLAB</h1>
 <h3 align="center">A Machine Learning enthusiast & Data Science and Artificial Intelligence Master student.</h3>
 
