@@ -3,7 +3,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Abdeldjallil DJELLAB</h1>
 <h3 align="center">A Machine Learning enthusiast & Data Science Master student.</h3>
 
-- 👨‍💻 All of my projects are available at [https://djellab-ahmed.github.io/](https://djellab-ahmed.github.io/)
 
 - 📫 How to reach me **djellabahmedabdeldjallil@gmail.com**
 
