@@ -1,7 +1,7 @@
 
 [![MasterHead](https://thumbs.gfycat.com/ActiveCourteousAmericanindianhorse-max-1mb.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Ahmed Abdeldjallil DJELLAB</h1>
-<h3 align="center">A Machine Learning enthusiast & Data Science Master student.</h3>
+<h3 align="center">A Machine Learning Engineer.</h3>
 
 
 - 📫 How to reach me **djellabahmedabdeldjallil@gmail.com**
